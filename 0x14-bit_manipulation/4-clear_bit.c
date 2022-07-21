@@ -14,5 +14,3 @@
 	return (1);
 }
 
-Footer
-
